@@ -1,0 +1,14 @@
+ru-en.json — Russian–English dictionary data
+
+Source: OpenRussian.org (https://en.openrussian.org), public export at
+https://github.com/Badestrand/russian-dictionary (data includes contributions from
+Wiktionary and the OpenRussian team).
+
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Changes made: selected the 40,000 most frequent entries; kept the stressed form,
+part of speech and English translations; converted stress marks to U+0301;
+reformatted to compact JSON (scripts/build-dictionary.mjs).
+
+This file is distributed under the same CC BY-SA 4.0 license.
